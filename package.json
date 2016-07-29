@@ -20,6 +20,7 @@
   "devDependencies": {
     "eslint": "^2.13.1"
   },
+  "license": "MIT",
   "main": "./index",
   "name": "eslint-config-animatelab",
   "peerDependencies": {
