@@ -26,5 +26,9 @@
   "peerDependencies": {
     "eslint": "^2.13.0"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/animateLAB/eslint-config-animatelab.git"
+  },
   "version": "1.0.1"
 }
